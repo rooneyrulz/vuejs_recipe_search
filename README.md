@@ -1,4 +1,4 @@
-# vue_sandbox
+# vuejs_recipe_search
 
 ## Project setup
 ```
